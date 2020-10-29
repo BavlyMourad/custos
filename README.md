@@ -1,6 +1,6 @@
 # custos
 
-A Women Security System
+Women Security Application
 
 ## Getting Started
 
