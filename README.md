@@ -1,21 +1,21 @@
-### **Custos is a SOS app for everybody but mainly for women.**
+## **Custos is a SOS App For Everybody But Mainly For Women.**
 
-## The App Has Three Main Features.
-### SOS/SAFE Buttons
+### The App Has Three Main Features.
+### 1) SOS/SAFE Buttons
 - SOS button automatically calls & sends SMS to your primary contact which you chose plus fetching your current location and mark it as a danger zone.
 
 - Safe button asks for your password to  check if it is actually you and send SMS to your contacts telling them you are safe
 
 - Calling and sending SMS features are optional.
 
-### Danger Zones
+### 2) Danger Zones
 - Danger zones to inform people that this zone is not safe
 
-### Tips
+### 3) Tips
 - Helpful tips for users and it can be saved.
 
 
-# App UI
+## App UI
 ### - Login & Register Screens
 <p align="center"><img src="readme-images/1.jpg" width=200 height= 400> <img src="readme-images/2.jpg" width=200 height= 400></p>
 
