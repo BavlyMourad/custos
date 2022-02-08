@@ -1,16 +1,15 @@
-# custos
+### **Custos is a SOS app for everybody but mainly for women.**
 
-Women Security Application
+## The App Has Three Main Features.
+### SOS/SAFE Buttons
+- SOS button automatically calls & sends SMSto your primary contact which you chose plus fetching your current location and mark it as a danger zone.
 
-## Getting Started
+- Safe button asks for your password to  check if it is actually you and send SMS to your contacts telling them you are safe
 
-This project is a starting point for a Flutter application.
+- Calling and sending SMS features are optional.
 
-A few resources to get you started if this is your first Flutter project:
+### Danger Zones
+- Danger zones to inform people that this zone is not safe
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tips
+- Helpful tips for users and it can be saved.
